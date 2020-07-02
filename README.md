@@ -9,6 +9,6 @@ __Goal:__ to prepare the set of measured data (current vs. voltage vs. magnetic 
 
 __Workflow:__
 
-Initially, an output from the experiment is current vs. voltage dependence, or I-V curve. Typical look of I-V curve for superconducting aluminum nanowire is shown on Fig1.
+Initially, an output from the experiment is current vs. voltage dependence, or I-V curve. Typical look of I-V curve for superconducting aluminum nanowire is shown on Fig.1.
 
-![Fig1](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig1.gif "IV")
+![Fig1](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig1.eps "IV")
