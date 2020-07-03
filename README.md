@@ -17,6 +17,6 @@ It could be not clearly visible, but IV is shifted a little bit from X=0 line, a
 
 ![Fig.2](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig2.gif "IV zoom")
 
-Centering IV is crucial for extracting information from it (positions of switching and retrapping point), and for recalculating it in different units (R-I, resistance- current representation). So, the first step is to center an IV at (0,0) position. For this I developed a Python code [IV_processing_Python](https://github.com/andr-nau/IV_processing_python). It works also in batch mode for large amount of experimental files. On the output this code gives set of files with centered, rescaled and recalculated IVs, as well as positions of critical points (switching/retrapping). Test visualisation from the code on Fig.3:
+Centering IV is crucial for extracting information from it (positions of switching and retrapping point), and for recalculating it in different units (R-I, resistance- current representation). So, the first step is to center an IV at (0,0) position. For this I developed a Python code [IV_processing_Python](https://github.com/andr-nau/IV_processing_python). It works also in batch mode for large amount of experimental files. On the output this code gives set of files with centered, rescaled and recalculated IVs, as well as positions of critical points (switching/retrapping). Fig3 shows visualisation from the code during shifting procedure:
 
 ![Fig.3](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig3.png "IV shift")
