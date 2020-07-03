@@ -9,11 +9,11 @@ __Goal:__ to prepare the set of measured data (current vs. voltage vs. magnetic 
 
 __Workflow:__
 
-Initially, an output from the experiment is current vs. voltage dependence, or I-V curve. Typical look of I-V curve for superconducting aluminum nanowire is shown on Fig.1.
+Initially, an output from the experiment is current vs. voltage dependence, or I-V curve. Typical look of I-V curve for superconducting aluminum nanowire is shown on Fig.1 (OriginLab graphics).
 
 ![Fig.1](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig1.gif "IV")
 
-It could be not clearly visible, but IV is shifted a little bit from X=0 line, as well as from Y=0 line. See zoomed picture of superconducting vertical part of IV on Fig.2:
+It could be not clearly visible, but IV is shifted a little bit from X=0 line, as well as from Y=0 line. See zoomed picture of superconducting vertical part of IV on Fig.2 (OriginLab graphics):
 
 ![Fig.2](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig2.gif "IV zoom")
 
@@ -25,11 +25,11 @@ Fig.3 shows visualisation from the python code during shifting procedure:
 
 ![Fig.3](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig3.png "IV shift")
 
-Next, using additional Mathematica code, I cut IVs to show only retrapping part (what I'm interested in) at I quadrant (+,+):
+Next, using additional Mathematica code, I cut IVs to show only retrapping part (what I'm interested in) at I quadrant (+,+), see Fig.4 (OriginLab graphics):
 
 ![Fig.4](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig4.gif "IV cut")
 
-Some repetitive features on the curves are clearly visible. But it appeared that curves first move up and then move down. So, the best representation could be in 3D. Using the same Mathematica code, I prepared XYZ file for 3D presentation, see Fig.5:
+Some repetitive features on the curves are clearly visible. But it appeared that curves first move up and then move down. So, the best representation could be in 3D. Using the same Mathematica code, I prepared XYZ file for 3D presentation, see Fig.5 (OriginLab graphics):
 
 ![Fig.5](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig5.png "IV 3D")
 
