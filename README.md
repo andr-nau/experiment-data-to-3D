@@ -21,7 +21,7 @@ Centering IV is crucial for extracting information from it (positions of switchi
 
 For this I developed a Python code [IV_processing_Python](https://github.com/andr-nau/IV_processing_python). It works also in batch mode for large amount of experimental files. On the output this code gives set of files with centered, rescaled and recalculated IVs, as well as positions of critical points (switching/retrapping). 
 
-Figю3 shows visualisation from the python code during shifting procedure:
+Fig.3 shows visualisation from the python code during shifting procedure:
 
 ![Fig.3](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig3.png "IV shift")
 
@@ -29,7 +29,7 @@ Next, using additional Mathematica code, I cut IVs to show only retrapping part 
 
 ![Fig.4](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig4.gif "IV cut")
 
-Some repeating and moving (with magnetic field) features on the curves are clearly visible. But it appeared that curves first go up and then go down. So, the best representation could be in 3D. Using the same Mathematica code, I prepared XYZ file for 3D presentation, see Fig.5:
+Some repetitive features on the curves are clearly visible. But it appeared that curves first move up and then move down. So, the best representation could be in 3D. Using the same Mathematica code, I prepared XYZ file for 3D presentation, see Fig.5:
 
 ![Fig.5](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig4.gif "IV 3D")
 
