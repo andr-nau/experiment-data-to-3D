@@ -27,7 +27,7 @@ Figю3 shows visualisation from the python code during shifting procedure:
 
 Next, using additional Mathematica code, I cut IVs to show only retrapping part (what I'm interested in) at I quadrant (+,+):
 
-![Fig.4](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig4.png "IV cut")
+![Fig.4](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig4.gif "IV cut")
 
 Some repeating and moving (with magnetic field) features on the curves are clearly visible. But it appeared that curves first go up and then go down. So, the best representation could be in 3D.
 
