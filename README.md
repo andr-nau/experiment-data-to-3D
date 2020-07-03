@@ -29,6 +29,8 @@ Next, using additional Mathematica code, I cut IVs to show only retrapping part 
 
 ![Fig.4](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig4.gif "IV cut")
 
-Some repeating and moving (with magnetic field) features on the curves are clearly visible. But it appeared that curves first go up and then go down. So, the best representation could be in 3D.
+Some repeating and moving (with magnetic field) features on the curves are clearly visible. But it appeared that curves first go up and then go down. So, the best representation could be in 3D. Using the same Mathematica code, I prepared XYZ file for 3D presentation, see Fig.5:
 
+![Fig.5](https://github.com/andr-nau/experiment-data-to-3D/blob/master/Fig4.gif "IV 3D")
 
+Now it is clearly visible all curvature, that appear due to magnetic field changes.
